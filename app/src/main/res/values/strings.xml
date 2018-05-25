@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Retro</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">TOP 20 ALBUMS</string>
+
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name…</string>
+    <string name="toolbar_title">Search</string>
+</resources>
